@@ -1,0 +1,23 @@
+body {
+  color: white;
+}
+
+body {
+  background-color: #121212;
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+
+  width: 15%;
+  margin: auto;
+
+  font-size: 2rem;
+}
+
+input,
+button {
+  padding: 0.5rem;
+}
