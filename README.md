@@ -1,4 +1,4 @@
-****Exercício** 01** – crie um “componente” que possua:
+# ****Exercício** 01** – crie um “componente” que possua:
 
 - Duas caixas de texto (definir rótulos (label) com um valor mínimo e um valor máximo)
 - Um botão (com o label “contar”)
